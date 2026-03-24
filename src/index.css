@@ -2,3 +2,24 @@
 @plugin "daisyui";
 
 
+.background {
+  height: 80vh;
+  width: 90%;
+  margin: 40px auto;
+  background: linear-gradient(to right, #121212, #12100f);
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  overflow: hidden;
+} 
+
+
+.banner-btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(to right, #fc42c1, #ead00e);
+  cursor: pointer;
+}
