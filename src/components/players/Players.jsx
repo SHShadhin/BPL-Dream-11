@@ -4,7 +4,7 @@ import SelectedPlayers from '../navbar/selectedPlayers/SelectedPlayers';
 
 const Players = ({ playerPromise,coin, setCoin }) => {
   const playersData = use(playerPromise)
-
+  const [selectedPlayers, setSelectedPlayers] = useState([])
   const [selectedType, setSelectedType] = useState('available')
   console.log(selectedType, 'Selected')
   return (
@@ -36,9 +36,11 @@ const Players = ({ playerPromise,coin, setCoin }) => {
           playersData={playersData}
           coin={coin}
           setCoin={setCoin}
+          selectedPlayers={selectedPlayers}
+          setSelectedPlayers={setSelectedPlayers}
         ></AvailablePlayers>
       ) : (
-        <SelectedPlayers></SelectedPlayers>
+        <SelectedPlayers selectedPlayers={selectedPlayers}></SelectedPlayers>
       )}
     </div>
   );

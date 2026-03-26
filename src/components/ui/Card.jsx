@@ -2,19 +2,27 @@ import React, { useState } from 'react';
 import { FaUser } from 'react-icons/fa';
 import { IoFlagSharp } from 'react-icons/io5';
 
-const Card = ({ player,coin, setCoin }) => {
+const Card = ({
+  player,
+  coin,
+  setCoin,
+  selectedPlayers,
+  setSelectedPlayers,
+}) => {
   const [isSelected, setSelected] = useState(false);
   const handleChoosePlayer = () => {
     let newCoin = coin - player.Price;
     if (newCoin >= 0) {
-      setCoin(coin - player.Price) 
+      setCoin(coin - player.Price);
     } else {
-      alert('Coin not enough for purchase the player')
+      alert('Coin not enough for purchase the player');
       return;
     }
-    
-    alert(`${player.playerName} is selected`)
+
+    alert(`${player.playerName} is selected`);
     setSelected(true);
+
+    setSelectedPlayers([...selectedPlayers, player])
   };
   return (
     <div className="card bg-base-100 shadow-sm mt-5">
@@ -34,7 +42,8 @@ const Card = ({ player,coin, setCoin }) => {
           <button className="btn">{player.playerType}</button>
         </div>
 
-        <div class="divider"></div>
+        <div className="divider"></div>
+
         <h3 className="font-bold">{player.rating}</h3>
         <div className="flex justify-between items-center">
           <p className="font-bold">{player.battingStyle}</p>
