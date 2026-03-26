@@ -1,0 +1,102 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "bollwingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "rating": 95,
+    "Price": 12000,
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "bollwingStyle": "Right-arm offbreak",
+    "battingStyle": "Right-hand bat",
+    "rating": 92,
+    "Price": 11500,
+    "playerImg": "https://i.ibb.co/babar-azam.png"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "bollwingStyle": "Right-arm offbreak",
+    "battingStyle": "Right-hand bat",
+    "rating": 90,
+    "Price": 11000,
+    "playerImg": "https://i.ibb.co/joe-root.png"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bollwingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-hand bat",
+    "rating": 93,
+    "Price": 12500,
+    "playerImg": "https://i.ibb.co/shakib.png"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "bollwingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-hand bat",
+    "rating": 91,
+    "Price": 12300,
+    "playerImg": "https://i.ibb.co/ben-stokes.png"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-Rounder",
+    "bollwingStyle": "Right-arm fast-medium",
+    "battingStyle": "Right-hand bat",
+    "rating": 89,
+    "Price": 11800,
+    "playerImg": "https://i.ibb.co/hardik.png"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "bollwingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "rating": 94,
+    "Price": 12200,
+    "playerImg": "https://i.ibb.co/bumrah.png"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "bollwingStyle": "Left-arm fast",
+    "battingStyle": "Left-hand bat",
+    "rating": 91,
+    "Price": 11900,
+    "playerImg": "https://i.ibb.co/starc.png"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "bollwingStyle": "Left-arm fast",
+    "battingStyle": "Left-hand bat",
+    "rating": 90,
+    "Price": 11700,
+    "playerImg": "https://i.ibb.co/shaheen.png"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper",
+    "bollwingStyle": "None",
+    "battingStyle": "Right-hand bat",
+    "rating": 92,
+    "Price": 12100,
+    "playerImg": "https://i.ibb.co/buttler.png"
+  }
+]
