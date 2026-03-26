@@ -5,7 +5,7 @@
     "playerType": "Batsman",
     "bollwingStyle": "Right-arm medium",
     "battingStyle": "Right-hand bat",
-    "rating": 95,
+    "rating": "Rating (95)",
     "Price": 12000,
     "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
@@ -15,9 +15,9 @@
     "playerType": "Batsman",
     "bollwingStyle": "Right-arm offbreak",
     "battingStyle": "Right-hand bat",
-    "rating": 92,
+    "rating": "Rating (92)",
     "Price": 11500,
-    "playerImg": "https://i.ibb.co/babar-azam.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Joe Root",
@@ -25,9 +25,9 @@
     "playerType": "Batsman",
     "bollwingStyle": "Right-arm offbreak",
     "battingStyle": "Right-hand bat",
-    "rating": 90,
+    "rating": "Rating (90)",
     "Price": 11000,
-    "playerImg": "https://i.ibb.co/joe-root.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Shakib Al Hasan",
@@ -35,9 +35,9 @@
     "playerType": "All-Rounder",
     "bollwingStyle": "Left-arm orthodox",
     "battingStyle": "Left-hand bat",
-    "rating": 93,
+    "rating": "Rating (93)",
     "Price": 12500,
-    "playerImg": "https://i.ibb.co/shakib.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Ben Stokes",
@@ -45,9 +45,9 @@
     "playerType": "All-Rounder",
     "bollwingStyle": "Right-arm fast-medium",
     "battingStyle": "Left-hand bat",
-    "rating": 91,
+    "rating": "Rating (91)",
     "Price": 12300,
-    "playerImg": "https://i.ibb.co/ben-stokes.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Hardik Pandya",
@@ -55,9 +55,9 @@
     "playerType": "All-Rounder",
     "bollwingStyle": "Right-arm fast-medium",
     "battingStyle": "Right-hand bat",
-    "rating": 89,
+    "rating": "Rating (89)",
     "Price": 11800,
-    "playerImg": "https://i.ibb.co/hardik.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -65,9 +65,9 @@
     "playerType": "Bowler",
     "bollwingStyle": "Right-arm fast",
     "battingStyle": "Right-hand bat",
-    "rating": 94,
+    "rating": "Rating (94)",
     "Price": 12200,
-    "playerImg": "https://i.ibb.co/bumrah.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Mitchell Starc",
@@ -75,9 +75,9 @@
     "playerType": "Bowler",
     "bollwingStyle": "Left-arm fast",
     "battingStyle": "Left-hand bat",
-    "rating": 91,
+    "rating": "Rating (91)",
     "Price": 11900,
-    "playerImg": "https://i.ibb.co/starc.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Shaheen Afridi",
@@ -85,9 +85,9 @@
     "playerType": "Bowler",
     "bollwingStyle": "Left-arm fast",
     "battingStyle": "Left-hand bat",
-    "rating": 90,
+    "rating": "Rating (90)",
     "Price": 11700,
-    "playerImg": "https://i.ibb.co/shaheen.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   },
   {
     "playerName": "Jos Buttler",
@@ -95,8 +95,8 @@
     "playerType": "Wicketkeeper",
     "bollwingStyle": "None",
     "battingStyle": "Right-hand bat",
-    "rating": 92,
+    "rating": "Rating (92)",
     "Price": 12100,
-    "playerImg": "https://i.ibb.co/buttler.png"
+    "playerImg": "https://i.ibb.co.com/1HXGhQg/jh4uuokr9p5n7f3g2cub.webp"
   }
 ]
